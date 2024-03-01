@@ -1,0 +1,24 @@
+.location{
+    color: maroon;
+    border: 2px solid black;
+    border-radius: 10px 10px 0  0 ;
+    width: 60%;
+}
+button{
+    padding: 5px;
+    font-size: 1.5rem;
+    color:maroon;
+    font-family: fantasy;
+    width: 60.5%;
+    border: 2px solid black;
+    border-radius: 0 0 10px 10px;
+    background-color: aqua;
+}
+.fetch{
+    background-color: white;
+    border-radius: 10px;
+    border: 2px solid black;
+    color: red;
+    width:fit-content;
+    margin-left: 5%;
+}
